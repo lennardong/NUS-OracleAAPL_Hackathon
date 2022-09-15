@@ -28,6 +28,8 @@ To see the results of the lab, you'll need to start the web server using Termina
         https://xxx.xxx.xxx.xxx:8443
 
     The Public IP is the one at which you're currently accessing Jupyter Lab, which we copied from the Running Instances step above.
-    
+
+---
+
 # Additional Resources 
 - https://www.youtube.com/watch?v=n4-Azr8xLQE
